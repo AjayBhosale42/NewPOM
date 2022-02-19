@@ -30,3 +30,4 @@ texttable==1.6.3
 toml==0.10.2
 urllib3==1.26.4
 webdriver-manager==3.3.0
+openpyxl==3.0.9
